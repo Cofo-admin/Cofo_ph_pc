@@ -8,7 +8,7 @@ use "Load Unpacked" to install it  !
 
 Install the chrome extention and once Enter your UserName and change theme between black and white
 
-Enter two numbers and choose a unsolved problem between the numbers and open it in a new tab
+Enter two numbers then extension will choose a unsolved problem between the numbers and open it in a new tab !
 
 Now no need to explore problemset page for a new problem just enter 2 numbers !!!!!!!!!!
 
